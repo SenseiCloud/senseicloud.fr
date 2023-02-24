@@ -41,8 +41,8 @@
           md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0
         ">
         <li class="text-gray-100 hover:text-indigo-400"><a href="#">Home</a></li>
-        <li class="text-gray-100 hover:text-indigo-400"><a href="#">About</a></li>
-        <li class="text-gray-100 hover:text-indigo-400"><a href="#">Services | products</a></li>
+        <li class="text-gray-100 hover:text-indigo-400"><a href="#">Products</a></li>
+        <li class="text-gray-100 hover:text-indigo-400"><a href="#">Services</a></li>
         <li class="text-gray-100 hover:text-indigo-400"><a href="#">Sign-up</a></li>
       </ul>
     </nav>
