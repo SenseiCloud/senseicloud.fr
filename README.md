@@ -1,4 +1,10 @@
 # senseicloud.fr
+Main SenseiCloud website
+
+## To-Do
+
+- [ ] Migrate to Nuxt 3 for SSR/SSG
+- [ ] Add pages
 
 ## Project setup
 ```
